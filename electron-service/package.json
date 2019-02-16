@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "dependencies": {
     "axon": "^2.0.1",
-    "electron-screenshot-app": "^4.0.0"
+    "electron-screenshot-app": "git://github.com/ArekOsiewicz/electron-screenshot-app.git"
   },
   "private": true
 }
